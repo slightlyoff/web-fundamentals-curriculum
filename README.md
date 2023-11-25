@@ -53,6 +53,30 @@ There are an incredible amount of resources ranging from free - thousands of dol
 #### Free Comprehensive Courses
 - ["Responsive Web Design"](https://www.freecodecamp.org/learn/2022/responsive-web-design/) by FreeCodeCamp
 
+## Paths
+
+We understand there is no 'one size fits all' when it comes to people who are either learning web development or coming to this document to understand web standards and best practices. Our aim in outlining the paths below is to provide a suggested path for those at various stages of their journey or coming from different engineering backgrounds. 
+
+### Brave New Explorer (Beginner to this Web Developer journey)
+
+You have decided what you want to do. Whether you are changing careers or you are deciding what to do as a career path, you are setting out into the world wide web as an architect and artisan, not simple a consumer. The suggested path here may seem daunting but do not fear, there are resources a plenty on your path to help you along the way. 
+
+As you go you may be wondering if you should "specialize". We think this is best left to after you have started working and can start to zero in on the aspects of being a web developer or software engineer that will become available to you within a workspace. The resources we have above are not the resources that would make you a "full-stack" engineer. That is intentional for the purpose of this document. We want you to become excellent with web standards technology so that when you add the other skills to become 'full-stack' you will be able to do that with excellence and confidence and not over reliance on tools to make that so. 
+
+### Investigator of Web Standards (Are you coming from React background?)
+
+Inevitably we know this is difficult, for many reasons. Some reading this may initially be repulsed or find some mild anger rising. Some may be utterly confused. And some may be thinking, "finally somewhere to find out more." For these reasons and more, the first set of resources and links we want to provide here are links to help us think more critically about how we build web applications. Let us be clear, there are many, many incredibly skilled wonderful engineers who use React and love it. 
+
+The purpose of what is being laid out here is to "present the data", as it were, to help frontend developers, agencies, and so on understand the choice that is being made when React and associated frameworks are the "obvious" choice. The standard here which we are setting forth is Progressive Enhancement. This inevitably raises the question in many a React developer's mind, "but who isn't using JavaScript these days." Whereas we concede that is likely to be true, that most people do not have JavaScript disabled, the more telling marker is to ask, "will this break if JavaScript is turned off?" 
+
+Progressive Enhancement is about providing a first class User Experience to all users of your app. If your application or site will work without JavaScript and JavaScript is only used to sweeten the experience of your users, it will be more performant and a delight. 
+
+The more JavaScript shipped to the page, the greater impact it will have on performance. Many of us Web Developers have iPhone's and a Macbook or other high end devices. The vast majority of the population does not. Meaning on high end devices the app with more JavaScript may not have a perceived difference but as the app scales, performance drops. If you make it work without JavaScript and Enhance it with JavaScript, your work will be more resilient. Resilience isn't revisiting your work every 6 months to year and updating your dependencies. Resilience is writing your app knowing it could continue to run without ever being updated. 
+
+This is not a dream. It is a present reality that many of us are ignorant to and don't take advantage of. We want you to have longevity in your career and work. Knowing standards means you are flexible and can adapt to the new thing should a job require it. Knowing the standards means that you have confidence in your work. 
+
+### TODO: Coming From a Alternate Universe (Skilled Engineer interest in Web Development) 
+
 ## About The Authors
 
  - [Alex Russell](https://infrequently.org/about-me) makes browsers
