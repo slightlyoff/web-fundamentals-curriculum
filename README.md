@@ -10,21 +10,24 @@ These stories elide the primary role of professional frontend work: to serve use
 
 We assert that students and businesses are best served when they focus on fundamentals. These fundamentals provide a lifetime of value to those who learn them and drive success for the products and services based in them.
 
-This document is not quite a manifesto, but it is designed to help catalyse a return to basics, arm learers and prospective employers with a list of valuable skills to explore, and to connect to communities of practice that hold the user in the highest regard.
+This document is not a manifesto, but it is designed to help catalyse a return to basics, arm learers and prospective employers with a list of long-term valuable skills to value, and to connect to communities of practice that hold end users in the highest regard.
 
 ## Resources 
 
 ### Essentials
 
-Building for the web is to be building for/on Browsers. It is common for Browsers to be an after thought or taken for granted when learning frontend fundamentals. Having a strong intuition for how Browsers work will build bridges for developers, new and seasoned, to reach new heights in their career. 
+Browser teams and volunteers jointly maintain documentation essential to the web community[^msdn] at ["MDN"](https://developer.mozilla.org/en-US/docs/Web); the canonical repository of web API references.
 
- - ["MDN"](https://developer.mozilla.org/en-US/docs/Web); the canonical repository of web API references
- - ["Getting Started With the Web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) on MDN
- - Browser DevTools; vary by browser, but all provide similarly powerful inspection capabilities.
-   - ["Firefox"](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools)
-   - ["Chrome"](https://developer.chrome.com/docs/devtools/overview/)
-   - ["Edge"](https://learn.microsoft.com/en-us/microsoft-edge/visual-studio-code/microsoft-edge-devtools-extension/open-devtools-and-embedded-browser)
-   - ["Safari"](https://developer.apple.com/documentation/safari-developer-tools/web-inspector)
+If you are just starting with web development, or looking for a basic list of skills all web developers must master, MDN's [**"Getting Started With the Web"**](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) is the best place to start. It walks you through [the basic software to install](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software), as well as the basics of [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics), [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics), and [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics). We recommend also spending time with MDN's ["Basics of HTTP"](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP) as well, as networking is essential to delivering experiences on the web.
+
+Learners and businesses will encounter differences between browsers and come to value skills in dissecting experiences that aren't going right. For this, each browsers's built-in development tools ("DevTools") are powerful debugging aids:
+
+  - ["Firefox"](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools)[^for-devs]
+  - ["Chrome"](https://developer.chrome.com/docs/devtools/overview/)
+  - ["Edge"](https://learn.microsoft.com/en-us/microsoft-edge/visual-studio-code/microsoft-edge-devtools-extension/open-devtools-and-embedded-browser)
+  - ["Safari"](https://developer.apple.com/documentation/safari-developer-tools/web-inspector)
+
+As you work through examples, keep DevTools open so that you can build an understanding of how changes to your pages impact the UIs that are delivered.
 
 ### HTML Structure
 
@@ -87,3 +90,10 @@ This is not a dream. It is a present reality that many of us are ignorant to and
 
  - [Alex Russell](https://infrequently.org/about-me) makes browsers
  - [Ben Patton](https://benapatton.com) optimistic builder and dreamer for the web
+
+
+[^msdn]: Historically, Microsoft's "MSDN" hosted the most important and authoritative documentation, but in the past 15 years this torch has been passed to Mozilla's [MDN](https://developer.mozilla.org/), which now recieves contributions from all major browser teams, as well as a community of dedicated volunteers. [Getting involved with MDN](https://developer.mozilla.org/en-US/community) and working to improve articles that you find confusing is a great way to help improve the commons!
+
+    If you are working in web technology professionally and can afford it, you can also support MDN directly by [subscribing to MDN Plus](https://developer.mozilla.org/en-US/plus).
+
+[^for-devs]: Mozilla also produces a version of Firefox [specifically taylored to the needs and interests of working web developers](https://www.mozilla.org/en-US/firefox/developer/); you can download and use it without worry that it will replace your default browser.
