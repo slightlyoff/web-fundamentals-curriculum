@@ -2,9 +2,15 @@
 
 ## Why This Document?
 
-The state of today's discourse around frontend web technologies is not in a good place. Many managers assume that they must adopt React (or similarly heavy and slow) tools because _"that's what we can hire for"_. Students are simultaneously told that they need to learn legacy frameworks _"because that's what employers want"_. These narratives elide the primary role of professional frontend work: to serve users and the organisastions that serve them. They also underplay the power of the web platform, and how advanced widely deployed browsers have become.
+The state of today's discourse around frontend web education is not in a good place. 
 
-We reject these narratives, and assert that students and businesses are best served when they focus on web platform fundamentals. These fundamentals provide a lifetime of value to those who learn them and drive success for the products and services based in them.
+Many managers believe they must adopt React (or similarly heavy and slow) tools because _"that's what we can hire for"_. Students are told that they need to learn legacy frameworks _"because that's what employers want"_. 
+
+These stories elide the primary role of professional frontend work: to serve users and the organisastions that serve them. They also underplay how advanced browsers have become, and the value to society in building faster, more accessible products with lower complexity.
+
+We assert that students and businesses are best served when they focus on fundamentals. These fundamentals provide a lifetime of value to those who learn them and drive success for the products and services based in them.
+
+This document is not quite a manifesto, but it is designed to help catalyse a return to basics, arm learers and prospective employers with a list of valuable skills to explore, and to connect to communities of practice that hold the user in the highest regard.
 
 ## Resources 
 
