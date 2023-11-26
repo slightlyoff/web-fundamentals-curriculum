@@ -12,7 +12,11 @@ We assert that students and businesses are best served when they focus on fundam
 
 This document is not a manifesto, but it is designed to help catalyse a return to basics, arm learers and prospective employers with a list of long-term valuable skills to value, and to connect to communities of practice that hold end users in the highest regard.
 
+<!-- TODO(slightlyoff): link to the "What to hire for" guide -->
+
 ## Resources 
+
+<!-- TODO(slightlyoff): inline TOC here? -->
 
 ### Essentials
 
