@@ -39,9 +39,9 @@ Some "old skool" skills to look for include:
  - "Responsive Design" or "Responsive Web Design"
  - "Progressive Enhancement"
  - "WCAG" (Web Content Accessibility Guidelines) or "W3C Accessibility"
- - HTML5 and/or CSS3
+ - "HTML 5" and/or "CSS 3"
  - "Web Standards"
- - jQuery or PrototypeJS
+ - "jQuery" or PrototypeJS
 
 Newer skills that indicate platform-centric understanding:
 
@@ -53,7 +53,21 @@ Newer skills that indicate platform-centric understanding:
  - "View Transitions" (2024 onward)
  - "Web Components", "Shadow DOM", or "Declarative Shadow DOM"
 
-Many folks with deep platform skills will feel they need to modify their resumes to highlight Angular or React-based experience and de-emphaise these attributes. If possible, be clear in your job postings that you are looking for developers with standards-based development in mind, a strong grounding in fundamentals and progressive enhancement, and that all interviews will be conducted without assuming frameworks, transpilers, or pre-processors (either for CSS or JS).
+### What to Advertise
+
+Many folks with deep platform skills will feel they need to modify their resumes to highlight Angular or React-based experience and de-emphaise these attributes. If possible, be clear in your job postings that you are looking for developers with standards-based development in mind. Also be clear that interviews will be conducted without assuming frameworks, transpilers, or pre-processors (either for CSS or JS).
+
+Even if your team has not yet adopted them, ensure that your job postings include skills like:
+
+ - Semantic HTML
+ - Progressive Enhancement
+ - WCAG and accessibility
+ - Modern CSS
+ - CSS Grid
+ - Web Components
+ - Core Web Vitals
+
+These aren't perfect, as a list, but they will help signal to applicants what sorts of skills you are emphasising.
 
 ## "Full-Stack" Is Not What You're Looking For
 
