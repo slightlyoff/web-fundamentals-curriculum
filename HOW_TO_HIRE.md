@@ -2,7 +2,7 @@
 
 ## Why Trust This Guide?
 
-[The author](https://infrequently.org/about-me/) has worked professionally on the web for more than 20 years, helped to design many features now in heavy use on the web platform, and interviewed hundreds of software engineering candidates -- many for frontend roles -- in while working at Google for a dozen years.
+[The author](https://infrequently.org/about-me/) has worked professionally on the web for more than 20 years, helped to design many features now in heavy use on the web platform, and interviewed hundreds of software engineering candidates -- many for frontend roles -- while working at Google for a dozen years.
 
 This experience informed a multi-year collaboration ('14-'17) among senior managers and engineers to reform Google's internal hiring policies, interview rubrics, recruiter guides, candidate collateral, hiring committee documentation, job descriptions, and promotion ladder criteria to better weight the skills embodied by the best frontend engineers and signpost differences between the frontend discipline and that of "general" software engineering. Frontend, it turns out, is wicked hard, and to hire for it well, we must think differently about what skills and values should be top-of-mind.
 
