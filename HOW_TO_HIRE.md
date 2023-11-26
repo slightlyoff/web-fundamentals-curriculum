@@ -32,7 +32,7 @@ Your organisation may also require that frontend developers work to integrate th
 
 ## Resume Filtering and Credentials
 
-The last decade of JS-first web development has atrophied the skills of recruiters and managers when it comes to looking for web development fundamentals. In their place, new proxies for seniority have been invented and promigulated. To attract the right skills, you will now need to cast a somewhat wider net and be look to see through "modern" resumes to spot the deeper experience hiding in a candidate's CV.
+The last decade of JS-first web development has atrophied the skills of recruiters and managers when it comes to looking for web development fundamentals. In their place, new proxies for seniority have been invented and promigulated. To attract the right skills, you will now need to cast a somewhat wider net and work to see through "modern" resumes to spot the deeper experience hiding in a candidate's CV.
 
 Some "old skool" skills to look for include:
 
