@@ -139,7 +139,9 @@ This sort of skillset isn't common, but it _is_ valuable. Candidates with this s
 
 ## Notes on Frontend Teams
 
-Frontend is not a stand-alone discipline; it fundamentally depends on collaboration and negotation to best manage the interplay of design intent, system constraints, and user experience. Managers of sizeable products will construct (or adopt) "stacks" that include some amount of frontend technology; the role of your frontend team is not to accept that technology, or slot into it. First and foremost, you hire frontend skill to _improve on the defaults_ of your stack. To do this, frontend engineers apply constraints unique to your product to develop _more constrained_ patterns and practices that help the overall organisation succeed.
+Frontend is not a stand-alone discipline; it fundamentally depends on collaboration and negotation to best manage the interplay of design intent, system constraints, and user experience. Managers of sizeable products will construct (or adopt) "stacks" that include some amount of frontend technology.
+
+The role of frontend folks in a team is not to accept technology, or slot into it. First and foremost, you hire frontend skill to _improve on the defaults_ of your stack. To do this, frontend engineers apply constraints unique to your product to develop _more constrained_ patterns and practices that help the overall organisation succeed.
 
 ### AI and Frontend
 
