@@ -89,6 +89,10 @@ For folks looking to hire for quality results, this means the annotation "full-s
 
 Better, then, as a hiring manager to consider what sort of team you're trying to build. Your goal probably isn't to hire an army of junior developers who don't know they're junior, it's probably to deliver the best products at the lowest cost. This, in aggregate, means hiring for deep _differentiated_ skills, collaboration, and effective team structure.
 
+Your team will need folks who can move code reliably, but that's not the reason to hire for frontend skill specifically; hiring for frontend about hiring folks who you will trust to _set constraints_ and _maintain standards_ for the bits of your products that users experience on their own devices.
+
+This problem is unique, and in some important ways harder, than traditional development. Hiring generalists for this role has been an industry-wide disaster, and so you should be conscious that the folks you're hiring in this area will need to be empowered to say "no" to backend and "full-stack" engineers with different ideas. That's just how it has to be if your product is going to be great. The job of your senior frontend folks is to compromise and negotiate, but always in service of the user. They will push back, they may even be ornery, but that's only because delivering great experiences to the client requires uncommon discipline.
+
 ### HTML + CSS First
 
 Interview loops for frontend candidates should pose problems that are best solved multiple ways, with the highest scorings given to pure HTML + CSS answers. Some candidates may solve problems in this style by proposing a bit of backend templating plus some HTML and CSS; this is a sign of relative strength too.
@@ -111,7 +115,33 @@ Avoid candidates that spout nonsense about how they need a framework because "DO
 
 The best candidates may suggest solutions in HTML &amp; CSS to problems that are posed as DOM questions. This is a reason to pass, rather than fail, a candidate.
 
-## AI and Frontend
+### Networking, Performance, and Advanced Topics
+
+When hiring for more senior roles, expect a wider breadth of experience and working familiariaty with many levels of the client and server-side stack, including their interplay. Also expect more specialisation and depth in the candidate's "home row". Each area of client-side stack (markup, a11y, CSS, design, storage, networking, security, graphics, media, and DOM) can be arbitrarialy deep, and the strongest candidates will exhibit both confident command of one area, as well as advanced skill in others.
+
+A colleague recently asked what to look for when promoting or hiring a frontend candidate to "Staff" level, and it seems reasonable that such a person should be able to describe, in good detail, the steps that take place between hitting "enter" in the URL-bar of a browser (or clicking on a link) and when content is finally painted on screen.
+
+This involves an understanding of browsers, networking, parsing, and much else. A non-exhaustive answer would discuss:
+
+ - DNS lookup
+ - TCP connections
+ - TLS handshaking
+ - HTTP request/response (including some understanding of the most important headers)
+ - server handling of requests
+ - server generation and flushing of content
+ - HTML parsing and sub-resource request initiation
+ - construction of DOM from HTML
+ - parsing of CSS
+ - layout deriving from constructed DOM + CSS
+ - a discussion of style recalc, layout, and raster steps (optional)
+
+This sort of skillset isn't common, but it _is_ valuable. Candidates with this sort of depth should also be able to talk about how they interact with design teams, how to think about system performance, and be able to talk through real-world web application security.
+
+## Notes on Frontend Teams
+
+Frontend is not a stand-alone discipline; it fundamentally depends on collaboration and negotation to best manage the interplay of design intent, system constraints, and user experience. Managers of sizeable products will construct (or adopt) "stacks" that include some amount of frontend technology; the role of your frontend team is not to accept that technology, or slot into it. First and foremost, you hire frontend skill to _improve on the defaults_ of your stack. To do this, frontend engineers apply constraints unique to your product to develop _more constrained_ patterns and practices that help the overall organisation succeed.
+
+### AI and Frontend
 
 The near-future of heavily automated frontend construction will not reduce the need for skill in fundamentals, but it may centralise this skill into fewer people in an organisation. This will become a litmus test for product values, as the role of the human "in the loop" of an AI-assisted system is to reject bad answers, rather than to fully construct good ones.
 
