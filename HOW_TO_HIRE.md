@@ -93,6 +93,16 @@ Your team will need folks who can move code reliably, but that's not the reason 
 
 This problem is unique, and in some important ways harder, than traditional development. Hiring generalists for this role has been an industry-wide disaster, and so you should be conscious that the folks you're hiring in this area will need to be empowered to say "no" to backend and "full-stack" engineers with different ideas. That's just how it has to be if your product is going to be great. The job of your senior frontend folks is to compromise and negotiate, but always in service of the user. They will push back, they may even be ornery, but that's only because delivering great experiences to the client requires uncommon discipline.
 
+### Attitudes and Values
+
+Frontenders play a unique role in organisations, translating design and product goals to delivered code; but not without adjustments along the way. 
+
+Design and product intent are conversations. Skilled frontend developers understand this and partner with UX designers, PMs, and backend engineers, helping to nudge their thinking towards solutions that will work best in-browser; e.g. at multiple resolutions and zoom levels, with differing accessibility configurations, and the like.
+
+The best frontend developers are advocates for the user because the code they write is _closest_ to the user. Your hiring process should look for, and prize, advocacy of this sort. Interview problems that provide multiple potential solutions are a great way to tease out how candidates think about tradeoffs and how they pick approaches.
+
+All great engineers have sympathy for the machine, but strong frontenders negotiate the technical constraints of limited resources with _intent_: their goal is to avoid leaving users behind. This is valuable to organisations that strive to deliver effective, reliable services and digital products as it creates a culture that prioritises what will work best over what is popular.
+
 ### HTML + CSS First
 
 Interview loops for frontend candidates should pose problems that are best solved multiple ways, with the highest scorings given to pure HTML + CSS answers. Some candidates may solve problems in this style by proposing a bit of backend templating plus some HTML and CSS; this is a sign of relative strength too.
