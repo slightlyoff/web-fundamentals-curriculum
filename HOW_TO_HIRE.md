@@ -4,15 +4,15 @@
 
 [The author](https://infrequently.org/about-me/) has worked professionally on the web for more than 20 years, helped to design many features now in heavy use on the web platform, and interviewed hundreds of software engineering candidates -- many for frontend roles -- while working at Google for a dozen years.
 
-This experience informed a multi-year collaboration ('14-'17) among senior managers and engineers to reform Google's internal hiring policies, interview rubrics, recruiter guides, candidate collateral, hiring committee documentation, job descriptions, and promotion ladder criteria to better weight the skills embodied by the best frontend engineers and signpost differences between the frontend discipline and that of "general" software engineering. Frontend, it turns out, is wicked hard, and to hire for it well organisations must think differently about what skills and values should be top-of-mind.
+This experience informed a multi-year collaboration ('14-'17) among senior managers and engineers to reform Google's internal hiring policies, interview rubrics, recruiter guides, candidate collateral, hiring committee documentation, job descriptions, and promotion ladder criteria to better weight the skills embodied by the best frontend engineers and signpost differences between the frontend discipline and that of "general" software engineering. Frontend is wicked hard, and to hire well organisations must think differently about what skills and values should be top-of-mind.
 
 The author has also [consulted widely](https://infrequently.org/2022/05/performance-management-maturity/) with frontend teams across industry since 2015 as they worked to build [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) and improve their sites with the help of the Chrome team's expertise. 
 
-Since joining Microsoft in 2021, this consulting work has continued, but is now focused on improving Microsoft's largest web properties (e.g., Bing, Copilot, Office, Teams, etc.). This consulting has provided a broad view into the practices, beliefs, and pathologies of both high-functioning and poorly executing frontend teams, as well as the habits of both managers and engineers that make the difference to the user experience.
+Since joining Microsoft in 2021, this consulting work has continued but is now focused on improving Microsoft's most prominent web properties (e.g., Bing, Copilot, Office, Teams, Loops, etc.). This consulting has provided a broad view into the practices, beliefs, and pathologies of both high-functioning and poorly executing frontend teams, as well as the habits of both managers and engineers that make the difference to the user experience.
 
 ## Essential Skills
 
-The most important skills to test for and value in frontend development are:
+Critical skills to test for and value in frontend development are:
 
   - Well-structured HTML
   - Accessibility
@@ -24,15 +24,15 @@ The most important skills to test for and value in frontend development are:
   - Image format tradeoffs
   - DOM
 
-> Note: JavaScript doesn't even make the list, let alone JS frameworks, but DOM does. This is because JavaScript knowledge untethered to the interals of the browser (via DOM) is worse-than-useless. In the current era of inverted values, JavaScript and framework skills have become valued over the user experience, leading to large-scale losses for businesses that invest in JS-driven UI.
+> Note: JavaScript doesn't even make the list, let alone JS frameworks, but DOM does. This is because JavaScript knowledge untethered to the internals of the browser (via DOM) is worse-than-useless. In the current era of inverted values, JavaScript and framework skills have become valued over the user experience, leading to large-scale losses for businesses that invest in JS-driven UI.
 
-This guide prescribes neither a specific interview style or methodology, nor a specific set of model technical questions, but it is recommended that the above list of skills be tested _in order_ to allow candidates to fail-fast, reducing interviewer time-spent on non-essential skills, whilst concentrating time in the most important areas.
+This guide prescribes neither a specific interview style or methodology nor a specific set of model technical questions. Still, it is recommended interviewers test the above list of skills _in order_ to allow candidates to fail-fast, reducing time spent on non-essential skills, whilst concentrating time in indispensible areas.
 
-Your organisation may also require that frontend developers work to integrate their work into backends built in various stacks. Testing for these skills, or capacity to learn them, is reasonable. Skilled frontend developers are polyglot, as it's a require to master multiple languages just to deliver a document with styling applied.
+Your organisation may also require that frontend developers work to integrate their work into backends built in various stacks. Testing for these skills, or the aptitude to learn them, is reasonable. Skilled frontend developers are polyglot, as multiple languages are required just to deliver a document with styling applied.
 
 ## Resume Filtering and Credentials
 
-The last decade of JS-first web development has atrophied the skills of recruiters and managers when it comes to looking for web development fundamentals. In their place, new proxies for seniority have been invented and promigulated. To attract the right skills, you will now need to cast a somewhat wider net and work to see through "modern" resumes to spot the deeper experience hiding in a candidate's CV.
+The last decade of JS-first web development has atrophied the skills of recruiters and managers looking for web development fundamentals. In their place, new proxies for seniority have been invented and promulgated. To attract the right skills, you will now need to cast a somewhat wider net and work to see through "modern" resumes to spot the deeper experience hiding in a candidate's CV.
 
 Some "old skool" skills to look for include:
 
@@ -48,14 +48,14 @@ Newer skills that indicate platform-centric understanding:
  - "CSS Grid"
  - "CSS Variables"
  - "Container queries"
- - "dark-mode themeing"
+ - "dark-mode theming"
  - "Web Animations API" (WAAPI)
  - "View Transitions" (2024 onward)
  - "Web Components", "Shadow DOM", or "Declarative Shadow DOM"
 
 ### What to Advertise
 
-Many folks with deep platform skills will feel they need to modify their resumes to highlight Angular or React-based experience and de-emphaise these attributes. If possible, be clear in your job postings that you are looking for developers with standards-based development in mind. Also be clear that interviews will be conducted without assuming frameworks, transpilers, or pre-processors (either for CSS or JS).
+Many folks with great platform skills will feel they need to modify their resumes to highlight Angular or React-based experience and de-emphasise these attributes. Be clear in job postings that you are looking for developers with standards-based development in mind. Also, be clear that interviews will be conducted without assuming frameworks, transpilers, or pre-processors (either for CSS or JS).
 
 Even if your team has not yet adopted them, ensure that your job postings include skills like:
 
@@ -67,7 +67,7 @@ Even if your team has not yet adopted them, ensure that your job postings includ
  - Web Components
  - Core Web Vitals
 
-These aren't perfect, as a list, but they will help signal to applicants what sorts of skills you are emphasising.
+These aren't perfect but they will signal to applicants the attitude towards frontend your organisation values.
 
 ## "Full-Stack" Is Not What You're Looking For
 
@@ -83,13 +83,15 @@ Understanding the Big-O of a loop has almost no applicability to the problem of 
 
 Sadly, the name given to aspiration for [deep skill across multiple layers](https://carlos.bueno.org/2010/11/full-stack.html), "full-stack", has been eroded by marketing and bootcamp salesmanship. The phrase "full-stack programmer", or more recently "full-stack developer," is now so thoroughly denatured that it has become synonymous with a junior developer that can write JavaScript on both the client and the server.
 
-For folks looking to hire for quality results, this means the annotation "full-stack" has lost all positive connotation. The best developers today avoid putting it on their resumes, or do so with gritted teeth to avoid being passed over in keyword searches. On the hiring side, only managers without the experience to know better treat it as a mark of skill or seniority.
+For folks looking to hire for quality, the annotation "full-stack" has lost any positive connotations. Today's best developers avoid putting it on their resumes or do so through gritted teeth to avoid being passed over in keyword searches. On the hiring side, only managers without the experience to know better treat it as a mark of skill or seniority.
 
 ## Build for Building for The Real World
 
-Better, then, as a hiring manager to consider what sort of team you're trying to build. Your goal probably isn't to hire an army of junior developers who don't know they're junior, it's probably to deliver the best products at the lowest cost. This, in aggregate, means hiring for deep _differentiated_ skills, collaboration, and effective team structure.
+Better, then, as a hiring manager to consider what sort of team you're trying to build. 
 
-Your team will need folks who can move code reliably, but that's not the reason to hire for frontend skill specifically; hiring for frontend about hiring folks who you will trust to _set constraints_ and _maintain standards_ for the bits of your products that users experience on their own devices.
+Your goal probably isn't to hire an army of junior developers who don't know they're junior, it's probably to deliver the best products at the lowest cost. This, in aggregate, means hiring for deep _differentiated_ skills, collaboration, and effective team structure.
+
+Your team will need folks who can move code reliably, but that's not the reason to hire for frontend skill specifically; hiring for frontend about hiring folks you trust to _set constraints_ and _maintain standards_ for the bits of your products that users experience on their own devices.
 
 This problem is unique, and in some important ways harder, than traditional development. Hiring generalists for this role has been an industry-wide disaster, and so you should be conscious that the folks you're hiring in this area will need to be empowered to say "no" to backend and "full-stack" engineers with different ideas. That's just how it has to be if your product is going to be great. The job of your senior frontend folks is to compromise and negotiate, but always in service of the user. They will push back, they may even be ornery, but that's only because delivering great experiences to the client requires uncommon discipline.
 
@@ -127,7 +129,7 @@ The best candidates may suggest solutions in HTML &amp; CSS to problems that are
 
 ### Networking, Performance, and Advanced Topics
 
-When hiring for more senior roles, expect a wider breadth of experience and working familiariaty with many levels of the client and server-side stack, including their interplay. Also expect more specialisation and depth in the candidate's "home row". Each area of client-side stack (markup, a11y, CSS, design, storage, networking, security, graphics, media, and DOM) can be arbitrarialy deep, and the strongest candidates will exhibit both confident command of one area, as well as advanced skill in others.
+When hiring for more senior roles, expect a wider breadth of experience and working familiarity with many levels of the client and server-side stack, including their interplay. Also expect more specialisation and depth in the candidate's "home row". Each area of client-side stack (markup, a11y, CSS, design, storage, networking, security, graphics, media, and DOM) can be arbitrarialy deep, and the strongest candidates will exhibit both confident command of one area, as well as advanced skill in others.
 
 A colleague recently asked what to look for when promoting or hiring a frontend candidate to "Staff" level, and it seems reasonable that such a person should be able to describe, in good detail, the steps that take place between hitting "enter" in the URL-bar of a browser (or clicking on a link) and when content is finally painted on screen.
 
@@ -149,9 +151,9 @@ This sort of skillset isn't common, but it _is_ valuable. Candidates with this s
 
 ## Notes on Frontend Teams
 
-Frontend is not a stand-alone discipline; it fundamentally depends on collaboration and negotation to best manage the interplay of design intent, system constraints, and user experience. Managers of sizeable products will construct (or adopt) "stacks" that include some amount of frontend technology.
+Frontend is not a stand-alone discipline; it fundamentally depends on collaboration and negotiation to best manage the interplay of design intent, system constraints, and user experience. Managers of sizeable products will construct (or adopt) "stacks" that include some amount of frontend technology.
 
-The role of frontend folks in a team is not to accept technology, or slot into it. First and foremost, you hire frontend skill to _improve on the defaults_ of your stack. To do this, frontend engineers apply constraints unique to your product to develop _more constrained_ patterns and practices that help the overall organisation succeed.
+The role of frontend folks in a team is not to accept technology, or slot into it. First and foremost, you hire frontend skill to _improve on the defaults_ of your stack. To do this, frontend engineers apply constraints unique to your product to develop _more_ constrained patterns and practices that help the overall organisation succeed.
 
 ### AI and Frontend
 
