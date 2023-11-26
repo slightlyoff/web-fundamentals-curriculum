@@ -6,7 +6,7 @@
 
 This experience informed a multi-year collaboration ('14-'17) among senior managers and engineers to reform Google's internal hiring policies, interview rubrics, recruiter guides, candidate collateral, hiring committee documentation, job descriptions, and promotion ladder criteria to better weight the skills embodied by the best frontend engineers and signpost differences between the frontend discipline and that of "general" software engineering. Frontend, it turns out, is wicked hard, and to hire for it well organisations must think differently about what skills and values should be top-of-mind.
 
-The author has also [consulted widely](https://infrequently.org/2022/05/performance-management-maturity/) with frontend teams across industry since 2015 as they worked to build [Progressie Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) and improve their sites with the help of the Chrome team's expertise. 
+The author has also [consulted widely](https://infrequently.org/2022/05/performance-management-maturity/) with frontend teams across industry since 2015 as they worked to build [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) and improve their sites with the help of the Chrome team's expertise. 
 
 Since joining Microsoft in 2021, this consulting work has continued, but is now focused on improving Microsoft's largest web properties (e.g., Bing, Copilot, Office, Teams, etc.). This consulting has provided a broad view into the practices, beliefs, and pathologies of both high-functioning and poorly executing frontend teams, as well as the habits of both managers and engineers that make the difference to the user experience.
 
