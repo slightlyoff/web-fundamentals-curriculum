@@ -28,7 +28,7 @@ The most important skills to test for and value in frontend development are:
 
 This guide prescribes neither a specific interview style or methodology, nor a specific set of model technical questions, but it is recommended that the above list of skills be tested _in order_ to allow candidates to fail-fast, reducing interviewer time-spent on non-essential skills, whilst concentrating time in the most important areas.
 
-Your organisation may also require that frontend developers work to integrate their work into backends built in various formats. Testing for these skills, or capacity to learn them, is not unreasonable. Skilled frontend developers are polyglot, as it's a require to master multiple languages just to deliver a document with styling applied.
+Your organisation may also require that frontend developers work to integrate their work into backends built in various stacks. Testing for these skills, or capacity to learn them, is reasonable. Skilled frontend developers are polyglot, as it's a require to master multiple languages just to deliver a document with styling applied.
 
 ## Resume Filtering and Credentials
 
