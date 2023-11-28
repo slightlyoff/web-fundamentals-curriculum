@@ -81,7 +81,7 @@ In software it's possible to solve problems from multiple angles, so the quality
 
 Understanding the Big-O of a loop has almost no applicability to the problem of constructing web pages that load efficiently, and the assumptions of server programmers about the availability of resources like compute, networking, and storage are almost always wrong on the client (regardless of stack).
 
-Sadly, the name given to aspiration for [deep skill across multiple layers](https://carlos.bueno.org/2010/11/full-stack.html), "full-stack", has been eroded by marketing and bootcamp salesmanship. The phrase "full-stack programmer", or more recently "full-stack developer," is now so thoroughly denatured that it has become synonymous with a junior developer that can write JavaScript on both the client and the server.
+Sadly, "full-stack" -- the name that was given to aspiration for [deep skill across multiple layers](https://carlos.bueno.org/2010/11/full-stack.html) -- has been eroded by marketing and bootcamp salesmanship. It is now so thoroughly denatured as to be synonymous with junior developers that can write JavaScript on both the client and the server.
 
 For folks looking to hire for quality, the annotation "full-stack" has lost any positive connotations. Today's best developers avoid putting it on their resumes or do so through gritted teeth to avoid being passed over in keyword searches. On the hiring side, only managers without the experience to know better treat it as a mark of skill or seniority.
 
