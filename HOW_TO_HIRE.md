@@ -1,5 +1,15 @@
 # How To Hire Frontend Talent
 
+## Why Read This Guide?
+You need to hire frontend web developers who will be capable of delivering the highest performance experiences to your customers, independent of any particular framework. With the emphasis on Javascript and Javascript-forward frameworks over the past decade, many web developers have not developed these crucial skills. Here's how you can find the ones who have.
+
+
+## Why This is Important to Your Business
+You'll [make more money](<!-- TODO(slightlyoff): you know the links -->). Competing businesses won't [own your platform](<!-- TODO(slightlyoff): you know the links -->). Your users [will love you](<!-- TODO(slightlyoff): you know the links -->).
+
+## Why This is Important to YOU
+Team fluency in the modern web platform will help you leverage the browser's capabilities well in advance of any framework's incorporation of those features. You'll be ahead of competition waiting for solutions from the framework providers.
+
 ## Why Trust This Guide?
 
 [The author](https://infrequently.org/about-me/) has worked professionally on the web for more than 20 years, helped to design many features now in heavy use on the web platform, and interviewed hundreds of software engineering candidates -- many for frontend roles -- while working at Google for a dozen years.

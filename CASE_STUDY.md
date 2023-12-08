@@ -22,7 +22,7 @@ Fast forward a few months and I had my first developer job 🎉
 
 I hate to admit this but early on I was incredibly arrogant. I went to work at a contracting company using JQuery, C#, .NET, and every day _"was a terrible day because life would be so much better if we could use React."_ 
 
-But _why_ was this the thought process? Why is this what many have come to truly believe about web development? There is a great statement by Ryan Florence called, "The Curse of React." It is too long to quote in detail but as someone who has built a business on React and it's short comings/filling in it's gaps and now is a founder a "React Framework" built on Web Standards, he has been immersed in React for a very long time.
+But _why_ was this the thought process? Why is this what many have come to truly believe about web development? There is a great statement by Ryan Florence called, "The Curse of React." It is too long to quote in detail but as someone who has built a business on React and its short comings/filling in its gaps and now is a founder a "React Framework" built on Web Standards, he has been immersed in React for a very long time.
 
 The essence of "The Curse of React" is that React made creating UI so simple that no one questioned what issues came with it like performance, accessibility, and others. 
 

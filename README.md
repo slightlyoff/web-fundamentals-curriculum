@@ -35,14 +35,14 @@ As you work through examples, keep DevTools open so that you can build an unders
 
 ### HTML Structure
 
-To build for the web is to author HTML. It is not uncommon to hear seasoned developers who look into HTML again to say something like, "I didn't know this existed." HTML has incredible capabilities and much of the things we build to "work around HTML" are unnecessary. 
+To build for the web is to author HTML. It is not uncommon to hear seasoned developers who look into HTML again to say something like, "I didn't know this existed." HTML has incredible capabilities and many of the things we build to "work around HTML" are unnecessary. 
 
  - ["Learn HTML"](https://web.dev/learn/html/) on web.dev
  - ["HTML basics"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) on MDN
 
 ### CSS
 
-To build for the web is to work with CSS. Beautiful design and web pages rely on CSS and not enough developers are aware of it's capabilities. The teaching and instruction in the industry around CSS has gotten really good in the past few years. Features are being added to CSS frequently that therefore allow for further leaning into it's capabilities as a standard. 
+To build for the web is to work with CSS. Beautiful design and web pages rely on CSS and not enough developers are aware of its capabilities. The teaching and instruction in the industry around CSS has gotten really good in the past few years. Features are being added to CSS frequently that therefore allow for further leaning into its capabilities as a standard. 
 
  - ["Learn CSS"](https://web.dev/learn/css/) on web.dev
  - ["CSS basics"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) on MDN
@@ -84,7 +84,7 @@ The purpose of what is being laid out here is to "present the data", as it were,
 
 Progressive Enhancement is about providing a first class User Experience to all users of your app. If your application or site will work without JavaScript and JavaScript is only used to sweeten the experience of your users, it will be more performant and a delight. 
 
-The more JavaScript shipped to the page, the greater impact it will have on performance. Many of us Web Developers have iPhone's and a Macbook or other high end devices. The vast majority of the population does not. Meaning on high end devices the app with more JavaScript may not have a perceived difference but as the app scales, performance drops. If you make it work without JavaScript and Enhance it with JavaScript, your work will be more resilient. Resilience isn't revisiting your work every 6 months to year and updating your dependencies. Resilience is writing your app knowing it could continue to run without ever being updated. 
+The more JavaScript shipped to the page, the greater impact it will have on performance. Many of us Web Developers have iPhones and a Macbook or other high end devices. The vast majority of the population does not. Meaning on high end devices the app with more JavaScript may not have a perceived difference but as the app scales, performance drops. If you make it work without JavaScript and Enhance it with JavaScript, your work will be more resilient. Resilience isn't revisiting your work every 6 months to year and updating your dependencies. Resilience is writing your app knowing it could continue to run without ever being updated. 
 
 This is not a dream. It is a present reality that many of us are ignorant to and don't take advantage of. We want you to have longevity in your career and work. Knowing standards means you are flexible and can adapt to the new thing should a job require it. Knowing the standards means that you have confidence in your work. 
 
